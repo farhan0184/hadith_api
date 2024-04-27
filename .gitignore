@@ -1,0 +1,8 @@
+
+node_modules
+ignored
+
+package-lock.json
+build
+NEXT.txt
+.vercel
